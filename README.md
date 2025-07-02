@@ -116,7 +116,7 @@ set NODE_OPTIONS=--openssl-legacy-provider
 $env:NODE_OPTIONS = "--openssl-legacy-provider"
 ```
 
-Here is [reference](https://github.com/webpack/webpack/issues/14532#issuecomment-947012063) about enabling legacy OpenSSL provider
+
 
 After trying above solutions, run below command
 
